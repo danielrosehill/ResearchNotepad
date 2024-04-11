@@ -11,15 +11,17 @@ You need to create a **second network**. I can't pretend to understand why but .
 - Add network
 - It's a macvlan again
 -
-But this time the 'Creation' button isn't grayed out:
-![[images/image.png]]
+But this time the 'Creation' button isn't grayed out!
+
+![[system/images/image.png]]
 
 The first macvlan goes as the network in config:
-
-![[images/image-1.png]]
+![[system/images/image-1.png]]
 
 Finally turn on enable manual container attachment also:
-![[images/image-2.png]]
+
+![[system/images/image-2.png]]
+
 Create this network.
 
 And THIS network is the one you add the containers to!
