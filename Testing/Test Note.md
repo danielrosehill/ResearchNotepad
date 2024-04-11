@@ -2,4 +2,5 @@ Setting this up as a test note so that I can play around with the way Obsidian f
 
 Test image for display:
 
-![[images/image.png]]
+
+![[Testing/images/image.png]]
