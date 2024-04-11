@@ -1,0 +1,1 @@
+- The default slug that populates when you paste images looks really bad. There's a plugin for that: https://github.com/reorx/obsidian-paste-image-rename 
