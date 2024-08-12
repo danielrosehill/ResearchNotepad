@@ -1,8 +1,10 @@
 # Public Notepad 
 
-## Purpose Statement
+## What's Here
 
-Mostly tech research. Quick notes that I jot down as I work. 
+This repository is simply a sort of "open access" notepad containing little reminders and reference notes that I occasionally scribble down.
+
+Sometimes I write them myself. In other instances, I run a quick ChatGPT prompt to store something I often forget for later reference.
 
 ## Author
 
